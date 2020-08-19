@@ -18,16 +18,11 @@ common supports |
 - move to directory : cd "NameDir"
 - Run App.
   
-  Dev : 
-        > yarn start
-        > npm run start
-  Prod : 
-        > yarn build
-        > npm run build
-  Run local-server : 
-        > yarn dist-local
-        > npm run dist-local
-  Run Watch : 
-        > yarn watch
-        > npm run watch
-
+  ##### Dev: 
+  > npm run start
+  ##### Prod : 
+  > npm run build
+  ##### Run local-server: 
+  > npm run dist-local
+  ##### Run Watch: 
+  > npm run watch
